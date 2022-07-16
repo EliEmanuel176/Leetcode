@@ -1,7 +1,13 @@
 # Leetcode
 Solutions to Leetcode Problems (Python)
 
-The Leetcode problems listed here are listed in order of when they were first attempted.
+Leetcode problems listed here are listed here as of 17/07/2022 (DD/MM/YYYY):
+
+Easy: 2
+Medium: 3
+Hard: 
+
+Total: 5
 
 To view the full question for each question: click on the 3 horizontal dots, in the middle of the screen, on the right of the file name.
 
